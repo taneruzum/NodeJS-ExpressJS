@@ -12,8 +12,8 @@ To get started, follow these steps:
 3. Keep your `.env` file secure, as it contains sensitive information.
 4. Start your project with `npm run dev` and access it on the specified port.
 
-*To test your queries, you can use ThunderClient.*
-Remember to keep your sensitive information, especially the `.env` file, private and do not expose it in your public repository.
+*To test your queries, you can use ThunderClient.* 
+Remember to keep your sensitive information, especially the `.env` file, private and do not expose it in your public repository. 
 TIP: You can add .env to your .gitignore file.
 
 
